@@ -1,0 +1,35 @@
+
+h2{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-weight:700;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+p{
+  text-align: justify;
+  font-family: 'Dancing Script', cursive;
+  font-weight:700;
+  font-size: 24px;
+  padding: 20px;
+}
+
+.fondoflores {
+  background-image: url(../img/fondoflores.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: right;
+}
+
+.separacion {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
